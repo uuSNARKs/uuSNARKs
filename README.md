@@ -1,4 +1,4 @@
-# On the Setup of Universal zk-SNARKs
+# Benchmarking the Setup of Updatable zk-SNARKs
 
 This code contains an implementation of the setup of 4 universal zk-SNARKs, which can be used for benchmarking and comparing the performance of the different schemes. 
 The code is based on the [Arkworks](https://github.com/arkworks-rs) library.
